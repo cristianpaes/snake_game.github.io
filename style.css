@@ -1,0 +1,25 @@
+section {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(15, 13, 13);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+
+.tb-01 {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: #D8D8D8;
+}
+
+.cont-fluid {
+    width: 85%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
